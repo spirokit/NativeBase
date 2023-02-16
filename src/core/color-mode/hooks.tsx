@@ -7,7 +7,7 @@ import type {
 import { HybridContext } from './../hybrid-overlay/Context';
 import type { IHybridContextProps } from './../hybrid-overlay/types';
 import { AppState, useColorScheme as _useColorScheme } from 'react-native';
-import { useSyncExternalStore } from 'use-sync-external-store';
+import { useSyncExternalStore } from 'use-sync-external-store/shim';
 
 export const useColorMode = (): IColorModeContextProps => {
   const {
