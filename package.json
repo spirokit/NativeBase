@@ -37,7 +37,7 @@
       "prettier --write"
     ]
   },
-  "version": "3.5.0-rc.9",
+  "version": "3.5.0-rc.10",
   "license": "MIT",
   "private": false,
   "main": "lib/commonjs/index",
@@ -199,7 +199,7 @@
     "@rollup/plugin-commonjs": "^22.0.0",
     "@rollup/plugin-typescript": "^8.3.3",
     "@types/lodash.has": "^4.5.6",
-    "@types/use-sync-external-store": "^0.0.3",
+    "@types/use-subscription": "^1.0.0",
     "inline-style-prefixer": "^6.0.1",
     "lodash.clonedeep": "^4.5.0",
     "lodash.get": "^4.4.2",
@@ -216,7 +216,7 @@
     "rollup-plugin-external-globals": "^0.6.1",
     "stable-hash": "^0.0.2",
     "tinycolor2": "^1.4.2",
-    "use-sync-external-store": "^1.2.0"
+    "use-subscription": "^1.8.0"
   },
   "directories": {
     "example": "example",
