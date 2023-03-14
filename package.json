@@ -1,5 +1,5 @@
 {
-  "name": "@spirokit/native-base",
+  "name": "spirokit-native-base",
   "description": "Essential cross-platform UI components for React Native",
   "sideEffects": false,
   "keywords": [
